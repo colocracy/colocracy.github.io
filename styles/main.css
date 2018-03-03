@@ -13,18 +13,12 @@ body {
 -------------------------------------------------- */
 
 /* Carousel base class */
-.w-100 {
-    width: 100% !important;
-}
-.d-block {
-    display: block !important;
-}
 .carousel {
   margin-bottom: 4rem;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
-  bottom: 10rem;
+  bottom: 3rem;
   z-index: 10;
 }
 
