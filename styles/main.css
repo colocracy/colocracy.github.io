@@ -89,3 +89,9 @@ body {
 .violetRed {color: #e84393;}
 .irisBlue {color: #1CA8D0;}
 .moonYellow {color: #F1C40F;}
+
+.social {
+    float:right;
+    list-style:none !important;
+    padding-right:15px
+}
