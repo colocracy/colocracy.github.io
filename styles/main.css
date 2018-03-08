@@ -47,7 +47,7 @@ body {
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
-/* Adjust the carousel height on smaller screens in portrait mode */
+/* Adjust display on smaller screens in portrait mode */
 @media (max-width: 36em) {
   .carousel-item {
     min-height: 32rem;
